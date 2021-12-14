@@ -10,5 +10,5 @@ int main()
 {
 	Museum t;
 	t.menu();
-	return 0;
+	
 }
